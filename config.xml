@@ -2,21 +2,21 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.moodle.moodlemobile"
+        id        = "au.com.jobcentreaustralia.jcalmoodle"
         versionCode = "20170"
-        version   = "3.2.1">
-    <name>Moodle Mobile</name>
+        version   = "3.2.2">
+    <name>JCAL Moodle Mobile</name>
 
     <description>
-        Moodle Mobile official app
+        JCAL Moodle Mobile official app
     </description>
 
-    <author href="http://moodle.com" email="mobile@moodle.com">
-        Moodle Pty Ltd
+    <author href="http://jobcentreaustralia.com.au" email="itsupport@jcal.com.au">
+        Viv Lavictoire
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
-        <string>3.2.1</string>
+        <string>3.2.2</string>
     </gap:config-file>
 
     <gap:platform name="ios" />
